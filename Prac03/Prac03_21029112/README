@@ -1,0 +1,33 @@
+## Synopsis
+
+Practical 3 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - readme file for Practical 3
+
+growthplot.py - plotting a graph of a simulation of unconstrained growth
+
+numbersarray.py: Read 10 numbers give sum, min, max, mean and plot numbers on graph
+
+growtharray.py - simulation of unconstrained growth, using arrays to store values 
+
+growthsubplot.py - simulation of March temperatures using subplots
+
+nunbersbar.py: Read 10 numbers, store values using arrays and plot as a bar chart
+
+dosage.py - simulates the amount of aspirin in the system
+
+dosage4hr.py - simulates the amount of aspirin in the system (4 hour variation)
+
+repeatdosage.py - repeated dosages in a simulation that looks at the amount of aspirin in the system
+
+skipdosage(1).py - skipped dosages in a simulation that looks at the amount of aspirin in the system 
+
+## Dependencies
+
+Practical 2
+
+## Version information
+
+<10/03/2022> - initial version of Practical 3 program

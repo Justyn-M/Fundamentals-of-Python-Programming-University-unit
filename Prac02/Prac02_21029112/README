@@ -1,0 +1,30 @@
+## Synopsis
+
+Practical 2 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - readme file for Practical 2
+
+strings1.py: Read in a string and print it in reverse using a loop and a method call
+
+strings2.py: Read in a string and print it forwards using a loop and a method call
+
+bucket1.py - use a python list for items in a bucket list
+
+bucket2.py - bucket list builder
+
+assorted.py - selecting random biscuits from a pack
+
+dart.py - Code for calculating Pi using the Method of Darts
+
+cointoss.py - simulate tossing a coin multiple times
+
+## Dependencies
+
+Prac01
+
+# Version information
+
+<06/03/2022> initial version of Practical 2 program
+

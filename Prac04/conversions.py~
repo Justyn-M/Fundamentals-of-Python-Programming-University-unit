@@ -1,0 +1,28 @@
+#
+# conversions.py - module with functions to convert between units
+#
+#      fahr2cel : Convert from Fahrenheit to Celsius
+#
+def fahr2cel(fahr):
+    fahr = int(input('Enter Temperature in Fahrenheit: '))
+    celsius = (fahr - 32) * (5/9)
+    return celsius
+
+def cel2fahr(cel):
+    cel = int(input('Enter Temperature in Celsius: '))
+    fahrenheit = (cel*9/5) + 32
+    return fahrenheit
+
+def main():
+    print('Please select a conversion => fahr2cel or cel2fahr: ')
+    if input() == 'fahr2cel':
+        result = fahr2cel(fahr)
+        print('Celsius is ', result, 'when Fahrenheit is ', fahr)
+    elif input == 'cel2fahr':
+        result2 = cel2fahr(cel)
+        print('Fahrenheit ', result2, 'when Celsius is ', cel)
+    else:
+        print('Select a valid converter')
+
+if __name__=='__main__':
+    main()

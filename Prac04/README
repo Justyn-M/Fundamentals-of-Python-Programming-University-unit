@@ -1,0 +1,36 @@
+## Synopsis
+
+Practical 4 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - readme file for Practical 4
+
+zeros.py - creating and resizing an array
+
+prettyface.py -
+
+competition_v1.py - outputting score for each dance competitor
+
+competition_v2.py - outputting score for each dance competitor
+
+competition_v3.py - outputting score for each dance competitor
+
+conversions.py - module with functions to convert between units
+
+conversionmachine.py - machine to convert between units by calling functions
+
+converter2.py - v2 of machine to convert between units by calling functions
+
+testConversions.py - tests the functions in conversions.py
+
+## Dependencies
+
+numpy
+
+matplotlib
+
+## Version information 
+
+<24/03/2022> - initial version of Practical 4 programs
+

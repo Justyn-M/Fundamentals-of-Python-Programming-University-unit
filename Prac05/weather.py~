@@ -1,0 +1,19 @@
+#
+# weather.py: Print min and max temps from a file
+#              (source: http://www.bom.gov.au/climate/)
+
+import matplotlib.pyplot as plt
+
+fileobj = open('marchweather.csv', 'r')
+weatherfile = fileobj.read()
+print(weatherfile)
+fileobj.close()
+
+for line in fileobj:
+    splitline = line.split(',')
+    mins = mins.append(splitline[2])
+    maxs = maxs.append(splitline[3])
+    date = range(1,32)
+
+plt.plot(dates, mins, dates, maxs)
+plt.show()

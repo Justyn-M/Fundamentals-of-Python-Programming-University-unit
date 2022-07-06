@@ -1,0 +1,29 @@
+## Synopsis
+
+Practical 7 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - readme file for Practical 7
+
+animalsinshelters.py - classes for animals and pet shelter
+
+shelters.py - testing pets and shelters class
+
+people.py - class definitions for person, staff, student, etc
+
+testPeople.py - testing people classes
+
+people2.csv - csv file for people
+
+peopleReader.py - read in people from file and create objects
+
+exceptionalReader.py - read in people from file and creat objects (exceptional version)
+
+## Dependencies
+
+None
+
+## Version Information
+
+<28/04/2022> - initial version of Practical 7 Program

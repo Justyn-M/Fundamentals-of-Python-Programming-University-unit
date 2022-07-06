@@ -1,0 +1,25 @@
+## Synopsis
+
+Assignment of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - readme file for Assignment
+
+entities.py - characters involved in fire evacuation simulation
+
+Fire.csv - csv file map
+
+FireEvac.py - Fire Evacuation Simulation
+
+## Dependencies
+
+matplotlib,pyplot as plt
+
+numpy as np
+
+random
+
+## Version Information
+
+<22/05/2022> - initial version of Assignment Program
